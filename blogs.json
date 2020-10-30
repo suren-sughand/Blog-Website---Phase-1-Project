@@ -1,0 +1,10 @@
+{
+    "blogs": [
+        {
+            "title": "Jaipur",
+            "detail": "something",
+            "image": "./images/Jaipur.jpg",
+            
+        }
+    ]
+}
